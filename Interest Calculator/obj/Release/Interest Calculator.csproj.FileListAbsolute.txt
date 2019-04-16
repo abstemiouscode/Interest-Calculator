@@ -1,0 +1,18 @@
+C:\Users\dennis.mrimi\Desktop\Interest Calculator\Interest Calculator\bin\Release\Interest Calculator.exe.config
+C:\Users\dennis.mrimi\Desktop\Interest Calculator\Interest Calculator\bin\Release\Interest Calculator.exe
+C:\Users\dennis.mrimi\Desktop\Interest Calculator\Interest Calculator\bin\Release\Interest Calculator.pdb
+C:\Users\dennis.mrimi\Desktop\Interest Calculator\Interest Calculator\bin\Release\Newtonsoft.Json.dll
+C:\Users\dennis.mrimi\Desktop\Interest Calculator\Interest Calculator\bin\Release\NLog.dll
+C:\Users\dennis.mrimi\Desktop\Interest Calculator\Interest Calculator\bin\Release\Resources.dll
+C:\Users\dennis.mrimi\Desktop\Interest Calculator\Interest Calculator\bin\Release\System.Net.Http.Formatting.dll
+C:\Users\dennis.mrimi\Desktop\Interest Calculator\Interest Calculator\bin\Release\Resources.pdb
+C:\Users\dennis.mrimi\Desktop\Interest Calculator\Interest Calculator\bin\Release\Newtonsoft.Json.xml
+C:\Users\dennis.mrimi\Desktop\Interest Calculator\Interest Calculator\bin\Release\NLog.xml
+C:\Users\dennis.mrimi\Desktop\Interest Calculator\Interest Calculator\bin\Release\System.Net.Http.Formatting.xml
+C:\Users\dennis.mrimi\Desktop\Interest Calculator\Interest Calculator\obj\Release\Interest Calculator.csprojAssemblyReference.cache
+C:\Users\dennis.mrimi\Desktop\Interest Calculator\Interest Calculator\obj\Release\InterestCalculator.Views.InterestCalculator.resources
+C:\Users\dennis.mrimi\Desktop\Interest Calculator\Interest Calculator\obj\Release\Interest Calculator.csproj.GenerateResource.cache
+C:\Users\dennis.mrimi\Desktop\Interest Calculator\Interest Calculator\obj\Release\Interest Calculator.csproj.CoreCompileInputs.cache
+C:\Users\dennis.mrimi\Desktop\Interest Calculator\Interest Calculator\obj\Release\Interest Calculator.csproj.CopyComplete
+C:\Users\dennis.mrimi\Desktop\Interest Calculator\Interest Calculator\obj\Release\Interest Calculator.exe
+C:\Users\dennis.mrimi\Desktop\Interest Calculator\Interest Calculator\obj\Release\Interest Calculator.pdb

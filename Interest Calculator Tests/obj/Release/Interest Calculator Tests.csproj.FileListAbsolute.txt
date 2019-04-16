@@ -1,0 +1,24 @@
+C:\Users\dennis.mrimi\Desktop\Interest Calculator\Interest Calculator Tests\bin\Release\Interest Calculator Tests.dll.config
+C:\Users\dennis.mrimi\Desktop\Interest Calculator\Interest Calculator Tests\bin\Release\Interest Calculator Tests.dll
+C:\Users\dennis.mrimi\Desktop\Interest Calculator\Interest Calculator Tests\bin\Release\Interest Calculator Tests.pdb
+C:\Users\dennis.mrimi\Desktop\Interest Calculator\Interest Calculator Tests\bin\Release\Castle.Core.dll
+C:\Users\dennis.mrimi\Desktop\Interest Calculator\Interest Calculator Tests\bin\Release\Interest Calculator.exe
+C:\Users\dennis.mrimi\Desktop\Interest Calculator\Interest Calculator Tests\bin\Release\NSubstitute.dll
+C:\Users\dennis.mrimi\Desktop\Interest Calculator\Interest Calculator Tests\bin\Release\nunit.framework.dll
+C:\Users\dennis.mrimi\Desktop\Interest Calculator\Interest Calculator Tests\bin\Release\Resources.dll
+C:\Users\dennis.mrimi\Desktop\Interest Calculator\Interest Calculator Tests\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\dennis.mrimi\Desktop\Interest Calculator\Interest Calculator Tests\bin\Release\System.Threading.Tasks.Extensions.dll
+C:\Users\dennis.mrimi\Desktop\Interest Calculator\Interest Calculator Tests\bin\Release\Interest Calculator.pdb
+C:\Users\dennis.mrimi\Desktop\Interest Calculator\Interest Calculator Tests\bin\Release\Interest Calculator.exe.config
+C:\Users\dennis.mrimi\Desktop\Interest Calculator\Interest Calculator Tests\bin\Release\Resources.pdb
+C:\Users\dennis.mrimi\Desktop\Interest Calculator\Interest Calculator Tests\bin\Release\Castle.Core.xml
+C:\Users\dennis.mrimi\Desktop\Interest Calculator\Interest Calculator Tests\bin\Release\NSubstitute.xml
+C:\Users\dennis.mrimi\Desktop\Interest Calculator\Interest Calculator Tests\bin\Release\nunit.framework.pdb
+C:\Users\dennis.mrimi\Desktop\Interest Calculator\Interest Calculator Tests\bin\Release\nunit.framework.xml
+C:\Users\dennis.mrimi\Desktop\Interest Calculator\Interest Calculator Tests\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\dennis.mrimi\Desktop\Interest Calculator\Interest Calculator Tests\bin\Release\System.Threading.Tasks.Extensions.xml
+C:\Users\dennis.mrimi\Desktop\Interest Calculator\Interest Calculator Tests\obj\Release\Interest Calculator Tests.csprojAssemblyReference.cache
+C:\Users\dennis.mrimi\Desktop\Interest Calculator\Interest Calculator Tests\obj\Release\Interest Calculator Tests.csproj.CoreCompileInputs.cache
+C:\Users\dennis.mrimi\Desktop\Interest Calculator\Interest Calculator Tests\obj\Release\Interest Calculator Tests.csproj.CopyComplete
+C:\Users\dennis.mrimi\Desktop\Interest Calculator\Interest Calculator Tests\obj\Release\Interest Calculator Tests.dll
+C:\Users\dennis.mrimi\Desktop\Interest Calculator\Interest Calculator Tests\obj\Release\Interest Calculator Tests.pdb

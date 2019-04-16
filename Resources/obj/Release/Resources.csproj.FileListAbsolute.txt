@@ -1,0 +1,8 @@
+C:\Users\dennis.mrimi\Desktop\Interest Calculator\Resources\bin\Release\Resources.dll
+C:\Users\dennis.mrimi\Desktop\Interest Calculator\Resources\bin\Release\Resources.pdb
+C:\Users\dennis.mrimi\Desktop\Interest Calculator\Resources\obj\Release\Resources.csprojAssemblyReference.cache
+C:\Users\dennis.mrimi\Desktop\Interest Calculator\Resources\obj\Release\GlobalResources.Properties.Resources.resources
+C:\Users\dennis.mrimi\Desktop\Interest Calculator\Resources\obj\Release\Resources.csproj.GenerateResource.cache
+C:\Users\dennis.mrimi\Desktop\Interest Calculator\Resources\obj\Release\Resources.csproj.CoreCompileInputs.cache
+C:\Users\dennis.mrimi\Desktop\Interest Calculator\Resources\obj\Release\Resources.dll
+C:\Users\dennis.mrimi\Desktop\Interest Calculator\Resources\obj\Release\Resources.pdb

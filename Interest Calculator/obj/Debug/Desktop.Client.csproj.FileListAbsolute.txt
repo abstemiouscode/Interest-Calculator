@@ -1,0 +1,5 @@
+C:\Users\dennis.mrimi\Desktop\TestableWinFormsApp\Desktop.Client\obj\Debug\Desktop.Client.csprojAssemblyReference.cache
+C:\Users\dennis.mrimi\Desktop\TestableWinFormsApp\Desktop.Client\obj\Debug\Desktop.Client.View.Products.resources
+C:\Users\dennis.mrimi\Desktop\TestableWinFormsApp\Desktop.Client\obj\Debug\Suitsupply.Desktop.Client.Properties.Resources.resources
+C:\Users\dennis.mrimi\Desktop\TestableWinFormsApp\Desktop.Client\obj\Debug\Desktop.Client.csproj.GenerateResource.cache
+C:\Users\dennis.mrimi\Desktop\TestableWinFormsApp\Desktop.Client\obj\Debug\Desktop.Client.csproj.CoreCompileInputs.cache

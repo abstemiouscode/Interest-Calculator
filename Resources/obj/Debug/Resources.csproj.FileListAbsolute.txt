@@ -1,0 +1,23 @@
+C:\Users\dennis.mrimi\Desktop\TestableWinFormsApp\Resources\bin\Debug\Resources.dll
+C:\Users\dennis.mrimi\Desktop\TestableWinFormsApp\Resources\bin\Debug\Resources.pdb
+C:\Users\dennis.mrimi\Desktop\TestableWinFormsApp\Resources\obj\Debug\Resources.csprojAssemblyReference.cache
+C:\Users\dennis.mrimi\Desktop\TestableWinFormsApp\Resources\obj\Debug\GlobalResources.Properties.Resources.resources
+C:\Users\dennis.mrimi\Desktop\TestableWinFormsApp\Resources\obj\Debug\Resources.csproj.GenerateResource.cache
+C:\Users\dennis.mrimi\Desktop\TestableWinFormsApp\Resources\obj\Debug\Resources.csproj.CoreCompileInputs.cache
+C:\Users\dennis.mrimi\Desktop\TestableWinFormsApp\Resources\obj\Debug\Resources.dll
+C:\Users\dennis.mrimi\Desktop\TestableWinFormsApp\Resources\obj\Debug\Resources.pdb
+C:\Users\dennis.mrimi\Desktop\Interest Calculator\Resources\bin\Debug\Resources.dll
+C:\Users\dennis.mrimi\Desktop\Interest Calculator\Resources\bin\Debug\Resources.pdb
+C:\Users\dennis.mrimi\Desktop\Interest Calculator\Resources\obj\Debug\GlobalResources.Properties.Resources.resources
+C:\Users\dennis.mrimi\Desktop\Interest Calculator\Resources\obj\Debug\Resources.csproj.GenerateResource.cache
+C:\Users\dennis.mrimi\Desktop\Interest Calculator\Resources\obj\Debug\Resources.csproj.CoreCompileInputs.cache
+C:\Users\dennis.mrimi\Desktop\Interest Calculator\Resources\obj\Debug\Resources.dll
+C:\Users\dennis.mrimi\Desktop\Interest Calculator\Resources\obj\Debug\Resources.pdb
+C:\Users\dennis.mrimi\Desktop\Interest-Calculator-master\Resources\bin\Debug\Resources.dll
+C:\Users\dennis.mrimi\Desktop\Interest-Calculator-master\Resources\bin\Debug\Resources.pdb
+C:\Users\dennis.mrimi\Desktop\Interest-Calculator-master\Resources\obj\Debug\Resources.csprojAssemblyReference.cache
+C:\Users\dennis.mrimi\Desktop\Interest-Calculator-master\Resources\obj\Debug\GlobalResources.Properties.Resources.resources
+C:\Users\dennis.mrimi\Desktop\Interest-Calculator-master\Resources\obj\Debug\Resources.csproj.GenerateResource.cache
+C:\Users\dennis.mrimi\Desktop\Interest-Calculator-master\Resources\obj\Debug\Resources.csproj.CoreCompileInputs.cache
+C:\Users\dennis.mrimi\Desktop\Interest-Calculator-master\Resources\obj\Debug\Resources.dll
+C:\Users\dennis.mrimi\Desktop\Interest-Calculator-master\Resources\obj\Debug\Resources.pdb
